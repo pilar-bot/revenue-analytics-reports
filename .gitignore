@@ -1,0 +1,21 @@
+# Data — never commit guest data to GitHub
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Environment
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
